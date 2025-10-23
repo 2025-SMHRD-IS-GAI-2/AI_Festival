@@ -3,7 +3,7 @@ package javafesivalQ;
 public class Q9 {
 
 	public static void main(String[] args) {
-		// 아스키 코드(ASCII) 코드
+		// 아스키 코드(ASCII) 코드 현호현호
 		// American Standard Code for Information Interchange
 		// : 문자와 기호를 컴퓨터에서 사용할 수 있도록 숫자와 매핑한 것!
 		// -> 각 문자는 고유한 아스키 코드 값을 가진다!
