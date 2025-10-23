@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class Q10 {
 	public static void main(String[] args) {
-		//이서커밋
+		//이서커밋 
 		int[]arr=new int[8];
 		Random rd = new Random();
 		
