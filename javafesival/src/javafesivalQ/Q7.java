@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Q7 {
 
 	public static void main(String[] args) {
+		// 지유커밋
 		
 		System.out.print("행 개수 : ");
 		Scanner sc = new Scanner(System.in);
